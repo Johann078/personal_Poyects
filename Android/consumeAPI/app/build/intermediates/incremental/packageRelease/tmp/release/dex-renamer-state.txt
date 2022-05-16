@@ -1,0 +1,4 @@
+#Fri Mar 18 18:30:15 COT 2022
+base.0=D\:\\PROJECTOS\\projectos-android\\consumeAPI\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
